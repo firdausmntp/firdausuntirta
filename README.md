@@ -17,10 +17,13 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=firdausuntirta&show_icons=true&theme=radical&card_width=500" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=firdausuntirta&show_icons=true&theme=radical&card_width=400" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdausuntirta&layout=compact&theme=radical&card_width=500" alt="Top Languages">
 </p>
+
 ---
+
+## 🎬 Animation
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="300" height="200" alt="Coding Animation">
